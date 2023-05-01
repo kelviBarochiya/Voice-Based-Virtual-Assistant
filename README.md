@@ -22,3 +22,5 @@ RAM: 8 GB (or higher)
 Microphone: Built-in or external microphone for voice input
 Internet Connection: Required for online functionality and accessing web-based services
 Disk Space: Sufficient free disk space to install the application and its dependencies
+
+# Youtube Video Link : https://youtu.be/HKwNyL-NwUE
